@@ -1,0 +1,21 @@
+[
+    {
+      "id": "author-1",
+      "name": "Assim Genshi",
+      "bio": "Designer and frontend developer who loves Python and UI.",
+      "photo": "https://i.pinimg.com/originals/ef/cd/ad/efcdadd68bd27777062d90f2a8ac8ef3.gif"
+    },
+    {
+      "id": "author-2",
+      "name": "Alex Dev",
+      "bio": "Creative coder and visual artist.",
+      "photo": "/images/authors/alex.jpg"
+    },
+    {
+      "id": "emily-hart",
+      "name": "Emily Hart",
+      "bio": "Emily Hart is a mystery novelist known for atmospheric storytelling and seaside suspense. Her works often explore hidden histories and emotional depth.",
+      "avatar": "/authors/emily.jpg"
+    }    
+  ]
+  
