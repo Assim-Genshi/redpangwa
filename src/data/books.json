@@ -1,12 +1,13 @@
 [
     {
       "id": "book-1",
+      "authorname": ["Assim Genshi"],
       "title": "React for Designers",
       "description": "A guide to using React with design principles.",
       "authorIds": ["author-1"],
-      "cover": "/IMG_3032.JPG",
+      "cover": "https://i.pinimg.com/736x/33/aa/47/33aa477f367009fe5125ec4658e5c0b0.jpg",
       "genre": "design",
-      "content": "Lorem ipsum dolor sit amet...",
+      "content": "Chapter 1\n\nThe journey began on a misty morning. The air was crisp, and the scent of pine filled the forest.\n\nOur hero, Alex, checked the map one last time. The path ahead was uncertain, fraught with challenges, but the promise of discovery spurred them onward.\n\nAlex adjusted the pack on their shoulders, its weight a familiar comfort. The compass needle quivered, pointing north towards the Whispering Peaks.Each step crunched on the fallen leaves, a rhythmic sound in the otherwise silent woods. Sunlight filtered weakly through the dense canopy above.\n\nChapter 2\n\nHours passed. The terrain grew steeper, the trees taller and more ancient.\n\nAlex paused by a clear stream, the water tumbling over smooth stones. A moment of rest was needed.\n\nRefilling the water canteen, Alex noticed strange carvings on a nearby rock face. They depicted creatures unlike any known animal.\n\nIntrigue battled with caution. Was this a warning or a clue?\n\nDeciding to press on, Alex marked the location on the map. The mystery of the peaks deepened.\n\nChapter 3\n\nAs dusk approached, the mist returned, thicker this time. Shapes shifted in the periphery.\n\nFinding a small cave offered shelter for the night. A fire was carefully built, its warmth pushing back the encroaching chill.\n\nThe sounds of the forest changed at night. Unseen creatures rustled in the undergrowth.\n\nAlex reviewed the map by firelight, thoughts drifting to the legends of the peaks – tales of lost cities and powerful artifacts.\n\nSleep came fitfully, filled with dreams of ancient symbols and echoing whispers.\n\nThe next morning brought renewed determination. The summit, though distant, felt closer than ever. The adventure continued...",
       "year": 2024
     },
     {
@@ -15,8 +16,8 @@
       "description": "Explore the joy of code and design.",
       "authorIds": ["author-2"],
       "genre": "coding",
-      "cover": "/IMG_3033.JPG",
-      "content": "Content of book 2...",
+      "cover": "https://i.pinimg.com/736x/7c/67/dd/7c67dd8209944004b8060f7c4e0b6338.jpg",
+      "content": "Chapter 1\n\nThe journey began on a misty morning. The air was crisp, and the scent of pine filled the forest.\n\nOur hero, Alex, checked the map one last time. The path ahead was uncertain, fraught with challenges, but the promise of discovery spurred them onward.\n\nAlex adjusted the pack on their shoulders, its weight a familiar comfort. The compass needle quivered, pointing north towards the Whispering Peaks.Each step crunched on the fallen leaves, a rhythmic sound in the otherwise silent woods. Sunlight filtered weakly through the dense canopy above.\n\nChapter 2\n\nHours passed. The terrain grew steeper, the trees taller and more ancient.\n\nAlex paused by a clear stream, the water tumbling over smooth stones. A moment of rest was needed.\n\nRefilling the water canteen, Alex noticed strange carvings on a nearby rock face. They depicted creatures unlike any known animal.\n\nIntrigue battled with caution. Was this a warning or a clue?\n\nDeciding to press on, Alex marked the location on the map. The mystery of the peaks deepened.\n\nChapter 3\n\nAs dusk approached, the mist returned, thicker this time. Shapes shifted in the periphery.\n\nFinding a small cave offered shelter for the night. A fire was carefully built, its warmth pushing back the encroaching chill.\n\nThe sounds of the forest changed at night. Unseen creatures rustled in the undergrowth.\n\nAlex reviewed the map by firelight, thoughts drifting to the legends of the peaks – tales of lost cities and powerful artifacts.\n\nSleep came fitfully, filled with dreams of ancient symbols and echoing whispers.\n\nThe next morning brought renewed determination. The summit, though distant, felt closer than ever. The adventure continued...",
       "year": 2023
     },
     {
@@ -34,7 +35,7 @@
       "title": "The Great Adventure",
       "description": "Explore the joy of code and design.",
       "authorIds": ["author-1"],
-      "cover": "https://placehold.co/300x450/a3e635/1f2937?text=Book+Cover",
+      "cover": "https://i.pinimg.com/736x/4d/45/11/4d4511dadee28f6fd932492f48a67457.jpg",
       "genre": "Mystery",
       "content": "Chapter 1\n\nThe journey began on a misty morning. The air was crisp, and the scent of pine filled the forest.\n\nOur hero, Alex, checked the map one last time. The path ahead was uncertain, fraught with challenges, but the promise of discovery spurred them onward.\n\nAlex adjusted the pack on their shoulders, its weight a familiar comfort. The compass needle quivered, pointing north towards the Whispering Peaks.Each step crunched on the fallen leaves, a rhythmic sound in the otherwise silent woods. Sunlight filtered weakly through the dense canopy above.\n\nChapter 2\n\nHours passed. The terrain grew steeper, the trees taller and more ancient.\n\nAlex paused by a clear stream, the water tumbling over smooth stones. A moment of rest was needed.\n\nRefilling the water canteen, Alex noticed strange carvings on a nearby rock face. They depicted creatures unlike any known animal.\n\nIntrigue battled with caution. Was this a warning or a clue?\n\nDeciding to press on, Alex marked the location on the map. The mystery of the peaks deepened.\n\nChapter 3\n\nAs dusk approached, the mist returned, thicker this time. Shapes shifted in the periphery.\n\nFinding a small cave offered shelter for the night. A fire was carefully built, its warmth pushing back the encroaching chill.\n\nThe sounds of the forest changed at night. Unseen creatures rustled in the undergrowth.\n\nAlex reviewed the map by firelight, thoughts drifting to the legends of the peaks – tales of lost cities and powerful artifacts.\n\nSleep came fitfully, filled with dreams of ancient symbols and echoing whispers.\n\nThe next morning brought renewed determination. The summit, though distant, felt closer than ever. The adventure continued...",
       "year": 2023

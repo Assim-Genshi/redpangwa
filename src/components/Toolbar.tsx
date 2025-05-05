@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 //---- heroui ----
 import { Button, Link } from "@heroui/react";
-import { AdjustmentsHorizontalIcon, ArrowLeftIcon } from "@heroicons/react/24/solid";
+import { ArrowLeftIcon } from "@heroicons/react/24/solid";
 import GradientBackdropBlur from './GradientBackdropBlur';
 
 const Toolbar: React.FC<{
